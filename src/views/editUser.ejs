@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/designHomePage.css">
+    <title>Update user</title>
+</head>
+<body>
+    <div class="topnav">
+        <li><a  href="/">Home</a></li>
+        <li><a  href="/create-user-page">News</a></li>
+        <li><a class="active" href="/update">Update user</a></li>
+</div>
+<div class="form-add-new">
+    <form action="/update-user" method="post">
+        <fieldset>
+            <legend>Form update users</legend>
+            <div class="input-group" >
+                <label>Mã Nhân viên: </label>
+                <input type="text" id="maNV" name="maNV" value="<%=oneUser.maNV%>">
+            </div>
+            <div class="input-group">
+                <label>Họ tên: </label>
+                <input type="text" name="HoTen" value="<%=oneUser.hoTen%>">
+            </div>
+            <div class="input-group">
+                <label>Địa chỉ: </label>
+                <input type="text" name="DiaChi" value="<%=oneUser.diaChi%>">
+            </div>
+            <div class="input-group">
+                <label>Số điện thoại: </label>
+                <input type="text" name="SoDT" value="<%=oneUser.sdt%>">
+            </div>
+            <div>
+                <button >Update user</button>
+            </div>
+        </fieldset>
+     </form>
+</div>
+</body>
+</html>

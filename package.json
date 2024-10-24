@@ -18,10 +18,14 @@
   },
   "homepage": "https://github.com/HuynhItHiHi/DACN_Nhom14_k16#readme",
   "dependencies": {
+    "bcrypt": "5.1.1",
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
     "ejs": "^3.1.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mysql2": "2.3.3",
+    "sequelize": "6.37.4",
+    "sequelize-cli": "6.6.2"
   },
   "devDependencies": {
     "nodemon": "3.1.7"

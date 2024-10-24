@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/designHomePage.css">
+    <title>Update user</title>
+</head>
+<body>
+    <div class="topnav">
+        <li><a  href="/">Home</a></li>
+        <li><a  href="/create-user-page">News</a></li>
+        <li><a class="active" >Delete user</a></li>
+</div>
+<div class="form-add-new">
+    <form action="/delete-user" method="post">
+        <fieldset>
+            <legend>Form update users</legend>
+            <div class="input-group" >
+                <label>Mã Nhân viên: </label>
+                <input type="text" id="maNV" name="maNV" value="<%=oneUser.maNV%>">
+            </div>
+            <div class="input-group">
+                <label>Họ tên: </label>
+                <input type="text" name="HoTen" value="<%=oneUser.hoTen%>">
+            </div>
+            <div>
+                <button >Confirm Remove user</button>
+            </div>
+        </fieldset>
+     </form>
+</div>
+</body>
+</html>
