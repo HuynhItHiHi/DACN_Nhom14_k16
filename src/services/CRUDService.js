@@ -1,17 +1,12 @@
 const json = require('body-parser/lib/types/json');
 const connection = require('../config/database');
 const db=require('../models/index')
-const bcrypt = require('bcrypt');
-const salt=bcrypt.genSaltSync(10)
+const { where } = require('sequelize');
+const { raw } = require('body-parser');
 
 
-//xử lý password
-const hashPassword=(UserPassword)=>{
-    return  bcrypt.hashSync(UserPassword,salt)   
-}
 
 const CreateOneNewUser=async (user)=>{
-        let hashPass=hashPassword(user.password)
         //         connection.query(
         //     `INSERT INTO nhanvien (maNV, hoTen, diaChi, sdt)
         //      VALUES (?,?,?,?)`,
@@ -21,10 +16,8 @@ const CreateOneNewUser=async (user)=>{
         //      }
         // );
         try {
-          await db.User.create({
-                email:user.email,
-                password:hashPass,
-                firstName:user.firstName
+          await db.Employee.create({
+
             })
         } catch (error) {
             console.log(error);
@@ -34,8 +27,22 @@ const CreateOneNewUser=async (user)=>{
 
 
 const getAllUsers=async()=>{
-    let [results, fields]=await connection.promise().query('select * from nhanvien')
-    return results;
+    try {
+        let employees=await db.Employee.findOne({
+            attributes:["id","fullName","email"],
+            where:{id : 1},
+            include:{model:db.Group, attributes:["name","description"],required: true},           
+            raw: true,
+            nest:true
+        })
+        console.log(">>>>new user",employees);
+        
+    } catch (error) {
+        console.log("lỗi truy vấn",error);
+        return null;
+    }
+    // let [results, fields]=await connection.promise().query('select * from nhanvien')
+    // return results;
 }
 
 
