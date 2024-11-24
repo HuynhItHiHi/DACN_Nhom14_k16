@@ -1,0 +1,752 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Test1\\New folder\\EmployeeManagementApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\xoanghiphepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\xoanghiphepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\xoaluongform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\xoaluongform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\timkiemtangcaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\timkiemtangcaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\timkiemtaikhoanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\timkiemtaikhoanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\timkiemnhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\timkiemnhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\timkiemnghiphepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\timkiemnghiphepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\timkiemluongform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\timkiemluongform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\timkiemchucvuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\timkiemchucvuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\themtangcaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\themtangcaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\themtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\themtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\themphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\themphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\themnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\themnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\themnghiphep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\themnghiphep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\themluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\themluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\themchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\themchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\suatangcaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\suatangcaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\suataikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\suataikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\suaphongbanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\suaphongbanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\suanhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\suanhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\suanghiphepfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\suanghiphepfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\suanghiphepform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\suanghiphepform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\sualuongfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\sualuongfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\suachucvuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\suachucvuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\sapxeptkform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\sapxeptkform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\sapxepnvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\sapxepnvform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\sapxepnghiphepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\sapxepnghiphepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\sapxepluongform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\sapxepluongform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\quanlyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\quanlyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\nhaptangcaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\nhaptangcaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\nhapmatk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\nhapmatk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\nhapmaphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\nhapmaphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\nhapmanv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\nhapmanv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|E:\\Test1\\New folder\\EmployeeManagementApplication\\quanlynhanvienttcsn_nhom9\\view\\nhapmanghiphep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\nhapmanghiphep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\nhapmaluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\nhapmaluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|E:\\Test1\\New folder\\EmployeeManagementApplication\\quanlynhanvienttcsn_nhom9\\view\\nhapmachucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\nhapmachucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\doimatkhauadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\doimatkhauadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\nhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\nhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\doimkform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\doimkform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\dangnhapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\dangnhapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\chitietquanlyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\chitietquanlyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\chitietnhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\chitietnhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\chitietnghiphepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\chitietnghiphepform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|e:\\test1\\new folder\\employeemanagementapplication\\quanlynhanvienttcsn_nhom9\\view\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienTTCSN_Nhom9\\QuanLyNhanVienTTCSN_Nhom9.csproj|solutionrelative:quanlynhanvienttcsn_nhom9\\view\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XoaNghiPhepForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\XoaNghiPhepForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\XoaNghiPhepForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\XoaNghiPhepForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\XoaNghiPhepForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:35:51.981Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XoaLuongForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\XoaLuongForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\XoaLuongForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\XoaLuongForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\XoaLuongForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:35:43.706Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimKiemTangCaForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemTangCaForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemTangCaForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemTangCaForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemTangCaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:35:35.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimKiemTaiKhoanForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemTaiKhoanForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemTaiKhoanForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemTaiKhoanForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemTaiKhoanForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:35:25.753Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimKiemNhanVienForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemNhanVienForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemNhanVienForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemNhanVienForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemNhanVienForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:35:04.459Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimKiemNghiPhepForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemNghiPhepForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemNghiPhepForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemNghiPhepForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemNghiPhepForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:34:56.051Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimKiemLuongForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemLuongForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemLuongForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemLuongForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemLuongForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:34:46.918Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TimKiemChucVuForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemChucVuForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemChucVuForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemChucVuForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\TimKiemChucVuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:34:38.914Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThemTangCaForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ThemTangCaForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\ThemTangCaForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ThemTangCaForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\ThemTangCaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:34:31.736Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThemPhongBan.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ThemPhongBan.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\ThemPhongBan.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ThemPhongBan.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\ThemPhongBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:34:14.745Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThemTaiKhoan.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ThemTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\ThemTaiKhoan.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ThemTaiKhoan.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\ThemTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:34:12.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThemNhanVien.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ThemNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\ThemNhanVien.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ThemNhanVien.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\ThemNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:34:04.355Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThemNghiPhep.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ThemNghiPhep.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\ThemNghiPhep.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ThemNghiPhep.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\ThemNghiPhep.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:33:54.967Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThemLuong.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ThemLuong.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\ThemLuong.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ThemLuong.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\ThemLuong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:33:35.132Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThemChucVu.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ThemChucVu.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\ThemChucVu.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ThemChucVu.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\ThemChucVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:33:28.199Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "test.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\test.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\test.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\test.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\test.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:33:20.515Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SuaTangCaForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaTangCaForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaTangCaForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaTangCaForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaTangCaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:33:12.666Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SuaTaiKhoan.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaTaiKhoan.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaTaiKhoan.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:32:57.985Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SuaPhongBanForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaPhongBanForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaPhongBanForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaPhongBanForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaPhongBanForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:32:49.32Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SuaNhanVienForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaNhanVienForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaNhanVienForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaNhanVienForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaNhanVienForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:32:37.746Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SuaNghiPhepFrom.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaNghiPhepFrom.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaNghiPhepFrom.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaNghiPhepFrom.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaNghiPhepFrom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:32:28.92Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SuaNghiPhepForm2.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaNghiPhepForm2.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaNghiPhepForm2.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaNghiPhepForm2.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaNghiPhepForm2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:32:19.468Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SuaLuongFrom.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaLuongFrom.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaLuongFrom.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaLuongFrom.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaLuongFrom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:32:10.475Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SuaChucVuForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaChucVuForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaChucVuForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SuaChucVuForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\SuaChucVuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:32:02.723Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SapXepTKForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepTKForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepTKForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepTKForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepTKForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:31:53.228Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SapXepNVForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepNVForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepNVForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepNVForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepNVForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:31:42.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SapXepNghiPhepForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepNghiPhepForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepNghiPhepForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepNghiPhepForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepNghiPhepForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:31:30.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SapXepLuongForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepLuongForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepLuongForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepLuongForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\SapXepLuongForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:31:18.534Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "QuanLyForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\QuanLyForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\QuanLyForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\QuanLyForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\QuanLyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:31:13.47Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProfileForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\ProfileForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ProfileForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\ProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:31:05.106Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NhapTangCaForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhapTangCaForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhapTangCaForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhapTangCaForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhapTangCaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:30:54.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NhapMaTK.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaTK.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaTK.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaTK.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaTK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:30:37.765Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NhapMaPhongBan.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaPhongBan.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaPhongBan.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaPhongBan.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaPhongBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:30:30.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NhapMaNV.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaNV.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaNV.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaNV.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:30:21.952Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NhapMaNghiPhep.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaNghiPhep.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaNghiPhep.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaNghiPhep.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaNghiPhep.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:46:54.735Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NhapMaLuong.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaLuong.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaLuong.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaLuong.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaLuong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:29:45.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DangNhapForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\DangNhapForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\DangNhapForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\DangNhapForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\DangNhapForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:28:55.459Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DoiMatKhauAdmin.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\DoiMatKhauAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\DoiMatKhauAdmin.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\DoiMatKhauAdmin.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\DoiMatKhauAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:28:58.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DoiMKForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\DoiMKForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\DoiMKForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\DoiMKForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\DoiMKForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:29:07.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NhanVienForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhanVienForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhanVienForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhanVienForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhanVienForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:29:10.272Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NhapMaChucVu.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaChucVu.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaChucVu.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaChucVu.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\NhapMaChucVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:46:54.736Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ChiTietQuanLyForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ChiTietQuanLyForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\ChiTietQuanLyForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ChiTietQuanLyForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\ChiTietQuanLyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:27:43.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ChiTietNhanVienForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ChiTietNhanVienForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\ChiTietNhanVienForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ChiTietNhanVienForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\ChiTietNhanVienForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:29:34.401Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ChiTietNghiPhepForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ChiTietNghiPhepForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\ChiTietNghiPhepForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\ChiTietNghiPhepForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\ChiTietNghiPhepForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:29:32.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\AdminForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienTTCSN_Nhom9\\View\\AdminForm.cs",
+              "ToolTip": "E:\\Test1\\New folder\\EmployeeManagementApplication\\QuanLyNhanVienTTCSN_Nhom9\\View\\AdminForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienTTCSN_Nhom9\\View\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:29:30.905Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
