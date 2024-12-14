@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EmployeeManagementApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienDACN_Nhom14\\QuanLyNhanVienDACN_Nhom14.csproj|d:\\employeemanagementapplication\\quanlynhanviendacn_nhom14\\view\\quanlyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienDACN_Nhom14\\QuanLyNhanVienDACN_Nhom14.csproj|solutionrelative:quanlynhanviendacn_nhom14\\view\\quanlyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienDACN_Nhom14\\QuanLyNhanVienDACN_Nhom14.csproj|D:\\EmployeeManagementApplication\\quanlynhanviendacn_nhom14\\view\\quanlyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienDACN_Nhom14\\QuanLyNhanVienDACN_Nhom14.csproj|solutionrelative:quanlynhanviendacn_nhom14\\view\\quanlyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienDACN_Nhom14\\QuanLyNhanVienDACN_Nhom14.csproj|D:\\EmployeeManagementApplication\\quanlynhanviendacn_nhom14\\control\\manageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienDACN_Nhom14\\QuanLyNhanVienDACN_Nhom14.csproj|solutionrelative:quanlynhanviendacn_nhom14\\control\\manageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienDACN_Nhom14\\QuanLyNhanVienDACN_Nhom14.csproj|D:\\EmployeeManagementApplication\\quanlynhanviendacn_nhom14\\view\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienDACN_Nhom14\\QuanLyNhanVienDACN_Nhom14.csproj|solutionrelative:quanlynhanviendacn_nhom14\\view\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienDACN_Nhom14\\QuanLyNhanVienDACN_Nhom14.csproj|D:\\EmployeeManagementApplication\\quanlynhanviendacn_nhom14\\control\\dangnhapcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienDACN_Nhom14\\QuanLyNhanVienDACN_Nhom14.csproj|solutionrelative:quanlynhanviendacn_nhom14\\control\\dangnhapcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienDACN_Nhom14\\QuanLyNhanVienDACN_Nhom14.csproj|D:\\EmployeeManagementApplication\\quanlynhanviendacn_nhom14\\view\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienDACN_Nhom14\\QuanLyNhanVienDACN_Nhom14.csproj|solutionrelative:quanlynhanviendacn_nhom14\\view\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienDACN_Nhom14\\QuanLyNhanVienDACN_Nhom14.csproj|D:\\EmployeeManagementApplication\\quanlynhanviendacn_nhom14\\view\\nhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C7E5A3-0CA8-4883-8685-5CB412BCE176}|QuanLyNhanVienDACN_Nhom14\\QuanLyNhanVienDACN_Nhom14.csproj|solutionrelative:quanlynhanviendacn_nhom14\\view\\nhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageForm.cs",
+              "DocumentMoniker": "D:\\EmployeeManagementApplication\\QuanLyNhanVienDACN_Nhom14\\Control\\ManageForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienDACN_Nhom14\\Control\\ManageForm.cs",
+              "ToolTip": "D:\\EmployeeManagementApplication\\QuanLyNhanVienDACN_Nhom14\\Control\\ManageForm.cs",
+              "RelativeToolTip": "QuanLyNhanVienDACN_Nhom14\\Control\\ManageForm.cs",
+              "ViewState": "AgIAAEQBAAAAAAAAAAAIwPQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:51:43.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "D:\\EmployeeManagementApplication\\QuanLyNhanVienDACN_Nhom14\\View\\AdminForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienDACN_Nhom14\\View\\AdminForm.cs",
+              "ToolTip": "D:\\EmployeeManagementApplication\\QuanLyNhanVienDACN_Nhom14\\View\\AdminForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienDACN_Nhom14\\View\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:18:19.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyForm.cs [Design]",
+              "DocumentMoniker": "D:\\EmployeeManagementApplication\\QuanLyNhanVienDACN_Nhom14\\View\\QuanLyForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienDACN_Nhom14\\View\\QuanLyForm.cs",
+              "ToolTip": "D:\\EmployeeManagementApplication\\QuanLyNhanVienDACN_Nhom14\\View\\QuanLyForm.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVienDACN_Nhom14\\View\\QuanLyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:17:23.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangNhapControl.cs",
+              "DocumentMoniker": "D:\\EmployeeManagementApplication\\QuanLyNhanVienDACN_Nhom14\\Control\\DangNhapControl.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienDACN_Nhom14\\Control\\DangNhapControl.cs",
+              "ToolTip": "D:\\EmployeeManagementApplication\\QuanLyNhanVienDACN_Nhom14\\Control\\DangNhapControl.cs",
+              "RelativeToolTip": "QuanLyNhanVienDACN_Nhom14\\Control\\DangNhapControl.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:13:04.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "D:\\EmployeeManagementApplication\\QuanLyNhanVienDACN_Nhom14\\View\\AdminForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienDACN_Nhom14\\View\\AdminForm.cs",
+              "ToolTip": "D:\\EmployeeManagementApplication\\QuanLyNhanVienDACN_Nhom14\\View\\AdminForm.cs",
+              "RelativeToolTip": "QuanLyNhanVienDACN_Nhom14\\View\\AdminForm.cs",
+              "ViewState": "AgIAANIBAAAAAAAAAAApwMQBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:12:04.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhanVienForm.cs",
+              "DocumentMoniker": "D:\\EmployeeManagementApplication\\QuanLyNhanVienDACN_Nhom14\\View\\NhanVienForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienDACN_Nhom14\\View\\NhanVienForm.cs",
+              "ToolTip": "D:\\EmployeeManagementApplication\\QuanLyNhanVienDACN_Nhom14\\View\\NhanVienForm.cs",
+              "RelativeToolTip": "QuanLyNhanVienDACN_Nhom14\\View\\NhanVienForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:48:22.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyForm.cs",
+              "DocumentMoniker": "D:\\EmployeeManagementApplication\\QuanLyNhanVienDACN_Nhom14\\View\\QuanLyForm.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVienDACN_Nhom14\\View\\QuanLyForm.cs",
+              "ToolTip": "D:\\EmployeeManagementApplication\\QuanLyNhanVienDACN_Nhom14\\View\\QuanLyForm.cs",
+              "RelativeToolTip": "QuanLyNhanVienDACN_Nhom14\\View\\QuanLyForm.cs",
+              "ViewState": "AgIAACYCAAAAAAAAAIAywE8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:15:45.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
